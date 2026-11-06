@@ -1,0 +1,23 @@
+PERSONAL PRO 46 — pacote PWA para Android
+
+COMO PUBLICAR E INSTALAR
+1. Extraia os arquivos do ZIP.
+2. Publique a pasta em um serviço HTTPS (por exemplo, GitHub Pages).
+3. Abra o endereço publicado no Chrome do Android.
+4. Use o menu ⋮ e escolha "Instalar app" ou "Adicionar à tela inicial".
+
+RECURSOS
+- Divisão de treino de segunda a sexta; fim de semana de descanso.
+- Registro de cargas e repetições por exercício.
+- Checklist mensal de assiduidade com status por dia útil.
+- Medidas corporais editáveis e histórico.
+- Gráfico de evolução para peso e medidas.
+- Exportação e importação de backup JSON.
+- Funcionamento offline após o primeiro carregamento, quando o navegador permitir.
+
+IMPORTANTE
+Este pacote é um PWA, não um APK. Os dados são armazenados localmente no navegador
+do dispositivo. Exporte backups periodicamente. A divisão de treino é um modelo
+geral; ajuste cargas, exercícios e volume às orientações profissionais e à sua
+tolerância individual. Não treine através de sintomas como dor no peito, tontura
+ou falta de ar fora do habitual.
